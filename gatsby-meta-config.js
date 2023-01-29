@@ -19,7 +19,7 @@ module.exports = {
     },
     social: {
       github: `https://github.com/hdryu`, // `https://github.com/hdryu`,
-      blog: `https://hdryu.github.io`, // `https://hdryu.github.io`,
+      linkedIn: `https://hdryu.github.io`, // `https://hdryu.github.io`,
       email: ``, // `handaeng@icloud.com`,
     },
   },
